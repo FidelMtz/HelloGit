@@ -7,3 +7,10 @@ h1{
     width: 500px;
     border: 30;
 }
+h2{
+    background-color: aliceblue;
+    width: 200px;
+    border-radius: 4%;
+    border-color: aquamarine;
+
+}
